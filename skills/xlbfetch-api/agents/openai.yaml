@@ -1,0 +1,4 @@
+interface:
+  display_name: "XlbFetch API"
+  short_description: "按 XlbFetch 约定编写 FSS 接口与错误处理。"
+  default_prompt: "Use $xlbfetch-api to implement or review an XlbFetch-based FSS service and avoid duplicate error throwing."

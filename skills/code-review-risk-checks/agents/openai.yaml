@@ -1,0 +1,6 @@
+﻿interface:
+  display_name: "代码检视风险检查"
+  short_description: "识别 MR 中的权限与上线风险"
+  default_prompt: "Use $code-review-risk-checks 检查这个 MR 的接口鉴权、权限按钮和上线风险。"
+policy:
+  allow_implicit_invocation: true
