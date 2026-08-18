@@ -1,0 +1,4 @@
+interface:
+  display_name: "云学堂培训考试助手"
+  short_description: "依据培训资料、题库与错题记录核对云学堂培训考试答案"
+  default_prompt: "Use $yunxuetang-exam-assistant 根据本地培训资料和题库核对当前云学堂考试，完成答题并停在提交前。"
